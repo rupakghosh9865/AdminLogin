@@ -42,7 +42,7 @@ public class AdminLogin {
 	//click on logout
 	 driver.findElement(By.xpath("/html/body/div/body/div/div[2]/div[1]/div[2]/div/div/div/a[2]")).click();
 
-	 Thread.sleep(4000);
+	 Thread.sleep(6000);
 	//quit driver
 	 driver.quit();
 				
